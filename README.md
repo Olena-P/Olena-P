@@ -4,7 +4,11 @@
 - 🔭 I’m currently working on creating websites and programs.
 - 🌱 I’m currently learning programming technologies ...
 - 👯 I want to cooperate on IT.
-- 📫 How to reach me: p.o.w.9.7.21@gmail.com
+- 📫 How to reach me: 
+- [![theneonwhale telegram](https://img.shields.io/badge/Telegram-%40theneonwhale-blue?style=plastic&logo=telegram&link=https://t.me/theneonwhale)](https://t.me/theneonwhale)
+  [![theneonwhale e-mail](https://img.shields.io/badge/Gmail-a.kylymnyk%40gmail.com-red?style=plastic&logo=gmail&link=mailto:p.o.w.9.7.21@gmail.com)](mailto:p.o.w.9.7.21@gmail.com)
+  [![theneonwhale github](https://img.icons8.com/color/50/000000/facebook-new.png-theneonwhale-white?style=plastic&logo=facebook&link=https://www.facebook.com/profile.php?id=100003598253122)](https://www.facebook.com/profile.php?id=100003598253122)
+  [![theneonwhale linkedin](https://img.shields.io/badge/LinkedIn-Andrii%20Kylymnyk-darkblue?style=plastic&logo=linkedin&link=https://www.linkedin.com/in/olena-pavliuk-5a8ba1215)](https://www.linkedin.com/in/olena-pavliuk-5a8ba1215)
 - ⚡ Fun fact: It's time to fly when you do what you love!
 
 My stack and tools:
