@@ -6,7 +6,7 @@
 - 👯 I want to cooperate on IT.
 - 📫 How to reach me: 
 - [![theneonwhale telegram](https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&link=https://t.me/theneonwhale)](https://t.me/theneonwhale)
-  [![theneonwhale e-mail](https://img.shields.io/badge/Gmail-black?style=plastic&logo=gmail&link=mailto:p.o.w.9.7.21@gmail.com)](mailto:p.o.w.9.7.21@gmail.com)
+  [![theneonwhale e-mail](https://img.shields.io/badge/Gmail-black?style=plastic&logo=gmail&link=mailto:olenapavliuk1@gmail.com)](olenapavliuk1@gmail.com)
   [![theneonwhale linkedin](https://img.shields.io/badge/LinkedIn-darkblue?style=plastic&logo=linkedin&link=https://www.linkedin.com/in/olena-pavliuk-5a8ba1215)](https://www.linkedin.com/in/olena-pavliuk-5a8ba1215)
 - ⚡ Fun fact: It's time to fly when you do what you love!
 
