@@ -37,3 +37,7 @@ My stack and tools:
 
 <img alt="WebStorm" width="32px" src="https://cdn.freebiesupply.com/logos/large/2x/webstorm-icon-logo-png-transparent.png" />
 
+
+
+<img alt="WordPress" width="32px" src="https://cdn.freebiesupply.com/logos/large/2x/wordpress-icon-logo-png-transparent.png" />
+
