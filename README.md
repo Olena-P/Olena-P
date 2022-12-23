@@ -5,9 +5,9 @@
 - 🌱 I’m currently learning programming technologies ...
 - 👯 I want to cooperate on IT.
 - 📫 How to reach me: 
-- [![theneonwhale telegram](https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&link=https://t.me/olenapavliuk)](https://t.me/olenapavliuk)
-  [![theneonwhale e-mail](https://img.shields.io/badge/Gmail-black?style=plastic&logo=gmail&link=mailto:olenapavliuk1@gmail.com)](mailto:olenapavliuk1@gmail.com)
-  [![theneonwhale linkedin](https://img.shields.io/badge/LinkedIn-darkblue?style=plastic&logo=linkedin&link=https://www.linkedin.com/in/olena-pavliuk-5a8ba1215)](https://www.linkedin.com/in/olena-pavliuk-5a8ba1215)
+- [![theneonwhale telegram](https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&link=https://t.me/OlenaVasylchuk)](https://t.me/OlenaVasylchuk)
+  [![theneonwhale e-mail](https://img.shields.io/badge/Gmail-black?style=plastic&logo=gmail&link=mailto:olenavasylchuk.front@gmail.com)](mailto:olenavasylchuk.front@gmail.com)
+  [![theneonwhale linkedin](https://img.shields.io/badge/LinkedIn-darkblue?style=plastic&logo=linkedin&link=https://www.linkedin.com/in/olena-vasylchuk-🇺🇦-5a8ba1215)](https://www.linkedin.com/in/olena-vasylchuk-🇺🇦-5a8ba1215)
 - ⚡ Fun fact: It's time to fly when you do what you love!
 
 My stack and tools:
