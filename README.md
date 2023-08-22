@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on creating websites and programs.
-- 🌱 I’m currently learning programming technologies ...
-- 👯 I want to cooperate on IT.
+- 🌱 Actively acquiring proficiency in various programming technologies to enhance my website and software development skills...
 - 📫 How to reach me: 
 - [![theneonwhale telegram](https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&link=https://t.me/OlenaVasylchuk)](https://t.me/OlenaVasylchuk)
   [![theneonwhale e-mail](https://img.shields.io/badge/Gmail-black?style=plastic&logo=gmail&link=mailto:olenavasylchuk.front@gmail.com)](mailto:olenavasylchuk.front@gmail.com)
