@@ -2,11 +2,11 @@
 
 
 - 🌱 Actively acquiring proficiency in various programming technologies to enhance my website and software development skills...
-- 📫 How to reach me: 
+- 📫 Contact Information: 
 - [![theneonwhale telegram](https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&link=https://t.me/OlenaVasylchuk)](https://t.me/OlenaVasylchuk)
   [![theneonwhale e-mail](https://img.shields.io/badge/Gmail-black?style=plastic&logo=gmail&link=mailto:olenavasylchuk.front@gmail.com)](mailto:olenavasylchuk.front@gmail.com)
   [![theneonwhale linkedin](https://img.shields.io/badge/LinkedIn-darkblue?style=plastic&logo=linkedin&link=https://www.linkedin.com/in/olena-vasylchuk-🇺🇦-5a8ba1215)](https://www.linkedin.com/in/olena-vasylchuk-🇺🇦-5a8ba1215)
-- ⚡ Fun fact: It's time to fly when you do what you love!
+- ⚡ Fun fact: Following your passion is like soaring through the skies!
 
 My stack and tools:
 
