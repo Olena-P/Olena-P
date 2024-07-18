@@ -19,6 +19,8 @@ My stack and tools:
 
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
+<img align="left"  alt="TypeScript" width="32px" src="https://img.icons8.com/color/50/000000/typescript.png" />
+
 <img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <img align="left" alt="React" width="32px" src="https://www.svgrepo.com/show/306466/next-dot-js.svg" />
@@ -26,13 +28,13 @@ My stack and tools:
 
 <img align="left" alt="Vue" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 
-<img align="left"  alt="TypeScript" width="32px" src="https://img.icons8.com/color/50/000000/typescript.png" />
-
 <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <img align="left" alt="GitLab" width="32px"  src="https://gitlab.com/gitlab-org/gitlab-ce/uploads/871c348e9df9d3b4f006b98bda90e4b4/images.png" />
 
 <img align="left" alt="Bitbucket" width="32px" src="https://cdn.worldvectorlogo.com/logos/bitbucket-icon.svg" />
+
+<img align="left" alt="Bitbucket" width="32px" src="https://cdn.worldvectorlogo.com/logos/vercel.svg" />
 
 <img align="left" alt="Heroku" width="32px" src="https://www.svgrepo.com/show/303683/heroku-logo.svg" />
 
