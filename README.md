@@ -1,12 +1,6 @@
 ### Hi there 👋
 
-
-- 🌱 Actively acquiring proficiency in various programming technologies to enhance my website and software development skills...
-- 📫 Contact Information: 
-- [![theneonwhale telegram](https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&link=https://t.me/OlenaVasylchuk)](https://t.me/OlenaVasylchuk)
-  [![theneonwhale e-mail](https://img.shields.io/badge/Gmail-black?style=plastic&logo=gmail&link=mailto:olenavasylchuk.front@gmail.com)](mailto:olenavasylchuk.front@gmail.com)
-  [![theneonwhale linkedin](https://img.shields.io/badge/LinkedIn-darkblue?style=plastic&logo=linkedin&link=https://www.linkedin.com/in/olena-vasylchuk-🇺🇦-5a8ba1215)](https://www.linkedin.com/in/olena-vasylchuk-🇺🇦-5a8ba1215)
-- ⚡ Fun fact: Following your passion is like soaring through the skies!
+⚡ Fun fact: Following your passion is like soaring through the skies!
 
 My stack and tools:
 
@@ -34,5 +28,11 @@ My stack and tools:
 <img align="left" alt="Vercel" width="32px" src="https://cdn.worldvectorlogo.com/logos/vercel.svg" />
 
 <img align="left" alt="Heroku" width="32px" src="https://www.svgrepo.com/show/303683/heroku-logo.svg" />
+
+<img align="left" alt="Node.js" width="32px" src="https://nodejs.org/static/logos/jsIconGreen.svg" />
+
+<img align="left" alt="Postman" width="32px" src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" />
+
+<img align="left" alt="Swagger" width="32px" src="https://icon.icepanel.io/Technology/svg/Swagger.svg" />
 
 <img align="left"  alt="Figma" width="32px" src="https://img.icons8.com/fluent/50/000000/figma.png" />
