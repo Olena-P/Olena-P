@@ -1,9 +1,10 @@
+![](https://komarev.com/ghpvc/?username=your-github-Olena-P&color=gray)
+
 ### Hi there 👋
 
 ⚡ Fun fact: Following your passion is like soaring through the skies!
 
 My stack and tools:
-
 
 <img align="left" alt="HTML" width="32px" style="margin-bottom: 20px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
