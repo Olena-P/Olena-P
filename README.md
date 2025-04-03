@@ -1,40 +1,70 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=327FE2&center=true&vCenter=true&width=1000&lines=Frontend+Dev+%7C+Web+Accessibility+%7C+React%2FNext.js&repeat=false)](https://www.olenacodes.com)
 
-I'm a **Frontend Developer**, specializing in **React, Next.js, and Web Accessibility**. I build **accessible, high-performance, and user-friendly** web applications, ensuring a seamless experience for all users.
+---
 
-### 🔭 I’m currently working on:
+### 👋 Hi, I’m Olena Vasylchuk  
+**Frontend Developer** · **A11y Advocate** · **Performance Nerd**  
+Building **accessible**, **high-performance**, and **user-friendly** web applications.
 
-- Developing **accessible web applications** with **Next.js**.
-- Creating **educational content** on **web accessibility, frontend development, and performance optimization**.
-- Growing my blog **[OlenaСodes](https://www.olenacodes.com)**, where I share **insights & solutions** for developers.
+---
 
-### 🌱 I’m currently learning:
+### 🔧 Tech stack I love
 
-- **React Native** for mobile development.
-- **Advanced web accessibility** (ARIA, WCAG).
-- **Performance optimization** techniques.
+![React](https://img.shields.io/badge/-React-2367C0?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-0092A5?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-327FE2?style=flat&logo=typescript&logoColor=white)
+![WCAG](https://img.shields.io/badge/-WCAG%202.2-72A8F0?style=flat&logo=w3c&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-007485?style=flat&logo=wordpress&logoColor=white)
 
-### 👯 I’m looking to collaborate on:
+---
 
-- **Open-source projects** related to **accessibility, React, and frontend performance**.
-- **Tech content creation** (articles, guides, and courses).
+### 🔭 Current Projects
 
-### 🤔 I’m looking for help with:
+- ♿ **Next.js apps** with full **Web Accessibility (WCAG 2.2)**
+- 📘 Creating content on **accessibility, frontend & performance**
+- ✍️ Growing my blog: [OlenaCodes](https://www.olenacodes.com)
 
-- Promoting **web accessibility awareness** among developers.
-- Engaging with the **React and Next.js** communities.
+---
 
-### 💬 Ask me about:
+### 🌱 Learning & Growing
 
-- **Web Accessibility (a11y, WCAG, ARIA)**.
-- **React & Next.js development**.
-- **Frontend performance optimization**.
-- **Creating engaging & educational tech content**.
+- 📱 **React Native** (mobile a11y, dark mode, gestures)
+- 🧠 **Advanced ARIA** & **accessibility UX patterns**
+- ⚙️ **Web vitals** tuning & frontend performance mastery
 
-### 📫 How to reach me:
+---
 
-- **Blog**: [OlenaСodes](https://www.olenacodes.com)
+### 🤝 Let’s Collaborate
 
-### ⚡ Fun fact:
+- 🔓 Open-source around **React + Accessibility**
+- 🎓 Writing **guides & micro-courses** for devs
+- 🚀 Creating starter kits for dev teams & accessibility
 
-I am passionate about **helping developers build accessible and user-friendly web experiences**. Also, I dream of having a **house near the water** and **driving a Toyota C-HR**.
+---
+
+### 💬 Ask me about
+
+- ✅ Real-world **a11y implementations**
+- ⚛️ **React / Next.js App Router**, SSR, SEO
+- 🚀 Optimizing **LCP / CLS / TBT**
+- 🧪 Making code **readable, semantic, scalable**
+
+---
+
+### 📫 Let’s connect
+
+- 🌐 [olenacodes.com](https://www.olenacodes.com)
+- 💼 [LinkedIn](https://linkedin.com/in/olena-vasylychuk)
+- 🐦 [Twitter](https://twitter.com/VasylychukO41517)
+
+---
+
+### 🌊 Fun Fact
+
+I dream of living near the water, building meaningful products,  
+and someday... driving a Toyota C-HR 😎
+
+---
+
+> _“The best UI is the one everyone can use.”_
+
